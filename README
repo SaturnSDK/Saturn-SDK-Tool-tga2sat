@@ -1,0 +1,10 @@
+| SEGA SATURN SDK // TOOL - TGA2SAT	                                          |
+| README                                                                      |
+
+| OVERVIEW                                                                    |
+
+tga2sat converts a TARGA file into a format intended for the SEGA Saturn.
+
+The generated file can be a binary or embeddable resource.  Palette and RGB
+modes are supported, along with end code and transparent pixel support.
+
